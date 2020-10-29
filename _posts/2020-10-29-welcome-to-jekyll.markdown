@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "First Post"
-date: 2020-10-29 12:43:15 +0530
+title: "Moriginal article:Assessment of Awareness, knowledge and   42-46 practices of Digital smile designing among practitioners in  Davangere city: A cross sectional survey "
+date: 2019-06-29 12:43:15 +0530
 categories: jekyll update
-tag: conference
-author: [Jake, Paul, Arron]
+tag: journal
+author: [Dr. Sunitha N.Shamanur, Dr. Nivedita Tiwari]
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
